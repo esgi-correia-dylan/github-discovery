@@ -1,1 +1,4 @@
 
+test de contribution GitHub
+
+GitHub est un serveur en ligne qui permet de versionner le code au sein de groupe, afin de pouvoir retrouver l'historique des ajouts,modificatons, et suppression d'un projet.
